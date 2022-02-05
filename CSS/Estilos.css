@@ -1,7 +1,7 @@
 body
 {
-background: #1e1f24;
-color:#333;
+background: #2e2f31;
+color: rgb(51, 12, 158);;
 text-align: center;
 font-family: "Arial";   
 font-size: 16px;
@@ -11,32 +11,12 @@ padding: 0;
 
 #cabecera
 {
-<<<<<<< HEAD
-<<<<<<< HEAD
-    background: #33a;
-    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
-=======
     background: #37488b;
     box-shadow: 0px 2px 20x 0px rgba(0, 0, 0, 0.5);
->>>>>>> 29301e97cfa128629351c6714a4d886658ff63e1
     color: white;
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
-=======
-background: #33a;
-box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
-color: white;
-font-weight: bold;
-margin: 0;
-padding: 0.5em;
-}
-
-#cabecera #logo
-{
- width: 20px;
-vertical-align: middle;
->>>>>>> bcfabc99a174ffd2f81b1a17c8b33d38cb0d154c
 }
 
 #cabecera #logo
@@ -63,6 +43,12 @@ margin: 0 auto;
 
 #container h1
 {
+    font-size: 20px;
+}
+#post
+{
+    background: white;
+    padding: 1em;
 font-size: 20px;
 }
 #post
@@ -70,33 +56,11 @@ font-size: 20px;
 background: white;
 padding: 1em;
 }
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 
->>>>>>> bcfabc99a174ffd2f81b1a17c8b33d38cb0d154c
 #footer
 
 {
-<<<<<<< HEAD
-    background: #777;
-    color: white;
-    text-align: center;
-    padding: 0.8em;
-=======
-
-#container h1
-{
-    font-size: 20px;
-}
-#post
-{
-    background: white;
-    padding: 1em;
->>>>>>> 29301e97cfa128629351c6714a4d886658ff63e1
-=======
 background: #777;
 color: white;
 text-align: center;
->>>>>>> bcfabc99a174ffd2f81b1a17c8b33d38cb0d154c
 }
