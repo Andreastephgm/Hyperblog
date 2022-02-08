@@ -1,11 +1,11 @@
-<center>**HYPERBLOG**</center> :tw-1f349: :tw-1f344: :tw-1f355:
-
+<center>**HYPERBLOG**</center> 
 
 
 <p>Un blog para el curso de Git y Github de Platzi.<p>
-</p>
-> El curso de Git y Github de Platzi es lo que me hacia falta para triplicar mi salario y lanzarme a la industria del tejido de la lana sintetica con Machine Learning.
-> Niñita.
+</p>El curso de Git y Github de Platzi es lo que me hacia falta para triplicar mi salario y lanzarme a la industria del tejido de la lana sintetica con Machine Learning.<p>
+ Niñita.
+
+ <img id=img src=gatp.png />
 
 En este curso vemos de todo:
 > - Todos los comandos de Git.
