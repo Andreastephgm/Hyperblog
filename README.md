@@ -1,14 +1,13 @@
-<center>HYPERBLOG</center>
+<strong> #HYPERBLOG </strong>
 :bowtie: :bowtie: :bowtie: :bowtie: 
 
 
-<p>Un blog para el curso de Git y Github de Platzi.<p>
+<strong><p>Un blog para el curso de Git y Github de Platzi.<p></strong>
 </p>El curso de Git y Github de Platzi es lo que me hacia falta para triplicar mi salario y lanzarme a la industria del tejido de la lana sintetica con Machine Learning.<p>
  Niñita.
 
- <img id=img src=gatp.png />
 
-En este curso vemos de todo:
+<strong> En este curso vemos de todo: </strong>
 > - Todos los comandos de Git.
 > - El flujo de trabajo en Github.
 > - El verdadero amor por las buenas practicas.
