@@ -1,4 +1,5 @@
-<center>**HYPERBLOG**</center> 
+<center>HYPERBLOG</center>
+:bowtie: :bowtie: :bowtie: :bowtie: 
 
 
 <p>Un blog para el curso de Git y Github de Platzi.<p>
