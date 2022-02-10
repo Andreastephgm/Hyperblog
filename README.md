@@ -15,6 +15,7 @@
 > - Las personalidades multiples de Freddy.
 > - Creado por el increíble Platzi Team.
 > - Incluye ejemplos en windows, linux y mac.
+> - Disponible para todas las edades.
 
 
 Y como recordatorio "Este README.MD es un chiste". Diseñado para el ejemplo. Si llegas aca no te lo tomes en serio mejor ve a ver el curso https://platzi.com/clases/1557-git-github/19977-readmemd-es-una-excelente-practica/. 
